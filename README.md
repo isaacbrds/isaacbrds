@@ -1,7 +1,7 @@
 ### Olá, eu sou Isaac Brígido desenvolvedor backend Ruby on Rails e apaixonado por tecnologia! 👋
 
 - 🔭 Estou atualmente trabalhando com Ruby on Rails
-- 🌱 Estudando Rails api, React, React Native, Next.js, Typescript
+- 🌱 Estudando Rails api, React, React Native, Next.js, Typescript, Python e Django
 
 
 <div align="center">
